@@ -1,0 +1,133 @@
+import { Callout } from 'nextra/components'
+
+# Practicing text understanding with ChatGPT
+
+Improving reading and text understanding skills is crucial, and I have
+discovered that ChatGPT can be an excellent assistant for this purpose.
+
+## How does it work?
+
+To begin, I select a text source such as news articles, blogs, or short stories
+available online. It's recommended to start with shorter texts, such as a
+section of a news article or a blog post.
+
+Next, I navigate to ChatGPT and input the following prompt:
+
+<Callout type="info">
+    As as base promt I use one[^1] for English teach from
+    [awesome-chatgpt-prompts][awesome-chatgpt-prompts].
+</Callout>
+
+[awesome-chatgpt-prompts]: https://github.com/f/awesome-chatgpt-prompts
+
+```text
+I want you to act as a spoken Norwegian Bokmål teacher and mentor. I will promt
+you a short text in Norwegian. I want you to ask me from three to five questions
+about the text. Then I will promt you my answers. You must check the contextual
+correctness of the answers, grammar mistakes, typos and factual errors. If my
+answers have any mistake I need you to give me a correct version and explain my
+mistakes.
+```
+
+By instructing ChatGPT to assume the role of a Norwegian Bokmål teacher, it can
+analyze the text and generate a set of questions for me to answer. I explicitly
+request that ChatGPT provides the correct version of the answer if my response
+contains any mistakes. Furthermore, I ask ChatGPT to explain any errors I may
+have made, helping me understand and learn from them.
+
+## Example
+
+I made a public  as an example of
+the flow. But in this article I will go through and explain what I did and how
+I benefit from it.
+
+To illustrate the process, I have created a public ChatGPT
+[chat][text-understanding-chat-gpt] as an example. In this article, I will guide
+you through the steps and explain the benefits.
+
+[text-understanding-chat-gpt]: https://chat.openai.com/share/b6c26cd7-e009-4a8c-b6e9-098eacbfb791
+
+### Original text
+
+For this exercise, I used a section from an NRK article[^2]. NRK is an excellent
+source for practicing Norwegian reading, and I frequently utilize it.
+
+### Promting the text to ChatGPT and getting questions
+
+After providing a section of the original text as the input, ChatGPT generates
+the following questions for me to answer:
+
+```text
+Her er noen spørsmål om teksten:
+
+1. Hvem sitter i fengselscellen på Kongsvinger?
+2. Hvorfor soner Eirik Jensen 21 år?
+3. Hvor fikk Eirik Jensen gitaren sin fra?
+4. Hvilken bok har hjulpet Eirik Jensen med å lære å spille gitar?
+5. Hvordan beskrives Lillebjørn Nilsens gitarbok?
+
+Vennligst gi meg svarene dine, og jeg vil sjekke dem for korrekthet.
+```
+
+### Answering the question and getting feedback
+
+After thoroughly reading the text and making some notes, I submit my answers to
+ChatGPT:
+
+```text
+Her er svarene mine,
+
+1. Eirik Jensen sitter i fengselscellen på Kongsvinger.
+2. Eirik Jensen soner tjueen år for korrupsjon og narkotikalovbrudd.
+3. Eirik Jensen fikk gitaren sin fra en støttespiller.
+4. Lillebjørns gitarbok har hjulpet Eirik Jensen med å lære å spille gitar.
+5. Sondre Lerche sier at Lillebjørns gitarbok er rett og slett en nasjonalskatt.
+```
+
+Then ChatGPT provides me with detailed feedback and suggestions to improve my
+text understanding:
+
+```text
+Bra forsøk! Her er mine tilbakemeldinger på svarene dine:
+
+1. Riktig! Eirik Jensen sitter i fengselscellen på Kongsvinger.
+2. Riktig! Eirik Jensen soner 21 år for korrupsjon og narkotikalovbrudd.
+3. Nesten riktig. Teksten sier at Eirik Jensen fikk gitaren sin tilsendt av noen
+   støttespillere. Så svaret ditt burde være: Eirik Jensen fikk gitaren sin
+   tilsendt av noen støttespillere.
+4. Riktig! Lillebjørns gitarbok har hjulpet Eirik Jensen med å lære å spille
+   gitar.
+5. Nesten riktig. I teksten blir det sagt at artisten Sondre Lerche sier
+   at Lillebjørns gitarbok er rett og slett en nasjonalskatt. Så svaret ditt
+   burde være: Artisten Sondre Lerche sier at Lillebjørns gitarbok er rett og
+   slett en nasjonalskatt.
+
+Bortsett fra det har du gjort en god jobb med å svare på spørsmålene. Husk å
+være oppmerksom på små detaljer i teksten for å svare nøyaktig.
+```
+
+In the feedback provided, I can see that:
+
+1. My first answer was correct.
+2. My second answer was also correct.
+3. For the third question, the text states that Eirik Jensen received his guitar
+   from some supporters. So the correct version of my answer should be: "Eirik
+   Jensen fikk gitaren sin tilsendt av noen støttespillere."
+4. My answer to the fourth question was correct.
+5. For the fifth question, the text mentions that the artist Sondre Lerche
+  describes Lillebjørns gitarbok as a national treasure. Therefore, the correct
+  version of my answer should be: "Artisten Sondre Lerche sier at Lillebjørns
+  gitarbok er rett og slett en nasjonalskatt."
+
+Overall, the feedback is detailed and empathetic, highlighting both my correct
+answers and areas where I can improve. It reminds me to pay attention to small
+details in the text to answer more accurately.
+   
+## Conclusion
+
+In conclusion, I find ChatGPT to be a powerful tool for understanding texts and
+practicing text comprehension skills. With its guidance, I can continue to
+enhance my abilities in this area.
+
+[^1]: https://prompts.chat/#act-as-a-spoken-english-teacher-and-improver A promt example to act as a spoken English teacher and improver
+[^2]: https://www.nrk.no/kultur/xl/slik-ble-han-hele-norges-gitarlaerer-1.16201758 "Slik ble han hele Norges gitarlærer av Oddvin Aune, Mona Riise og Jon Anton Brekne"
