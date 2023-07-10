@@ -7,7 +7,7 @@
     "export": "next export"
   },
   "dependencies": {
-    "@fontsource/inter": "^5.0.3",
+    "@fontsource/inter": "^5.0.5",
     "@fontsource/iosevka": "^5.0.3",
     "@vercel/analytics": "^1.0.1",
     "install": "^0.13.0",
