@@ -19,10 +19,10 @@
   resolved "https://registry.yarnpkg.com/@fontsource/inter/-/inter-5.0.8.tgz#61b50cb0eb72b14ae1938d47c4a9a91546d2a50c"
   integrity sha512-28knWH1BfOiRalfLs90U4sge5mpQ8ZH6FS0PTT+IZMKrZ7wNHDHRuKa1kQJg+uHcc6axBppnxll+HXM4c7zo/Q==
 
-"@fontsource/iosevka@^5.0.5":
-  version "5.0.5"
-  resolved "https://registry.yarnpkg.com/@fontsource/iosevka/-/iosevka-5.0.5.tgz#7d97952b171dbfb7c3d1fdfd24b3603a5509dcb1"
-  integrity sha512-oay+fO7HR4NqL+HdV/h7dFuqScJ/URZJJyob9FHdnb6268nm/rajSxZ5hdortLAeeN00KijLQxfhPcv+mwPgaA==
+"@fontsource/iosevka@^5.0.7":
+  version "5.0.7"
+  resolved "https://registry.yarnpkg.com/@fontsource/iosevka/-/iosevka-5.0.7.tgz#3eb8fd1fd89bec61cb70808887ffffa2da21f79c"
+  integrity sha512-X8s5hob/XEMPgY6JsgIwVRYsBMOxeSWlSXAWqZWeFcSF/ZyUsq/ut2fqgOlhUweBqS/ttiPBwJLXl7EPJsWqEg==
 
 "@headlessui/react@^1.7.10":
   version "1.7.15"
