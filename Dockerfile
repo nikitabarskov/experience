@@ -1,4 +1,4 @@
-FROM docker.io/library/node:22-alpine3.19@sha256:487dc5d5122d578e13f2231aa4ac0f63068becd921099c4c677c850df93bede8 AS node
+FROM docker.io/library/node:22-alpine3.19@sha256:9e8f45fc08c709b1fd87baeeed487977f57585f85f3838c01747602cd85a64bb AS node
 RUN corepack enable pnpm
 
 FROM gcr.io/distroless/nodejs20-debian12:nonroot@sha256:98633486db2f72dc5b00dc645667654ad450f79a4f10f8a482644447335b8023 AS distroless
