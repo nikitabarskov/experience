@@ -9,8 +9,8 @@ importers:
   .:
     dependencies:
       '@fontsource/inter':
-        specifier: ^5.0.8
-        version: 5.0.18
+        specifier: ^5.0.20
+        version: 5.0.20
       '@fontsource/iosevka':
         specifier: ^5.0.7
         version: 5.0.11
@@ -45,8 +45,8 @@ packages:
   '@braintree/sanitize-url@6.0.4':
     resolution: {integrity: sha512-s3jaWicZd0pkP0jf5ysyHUI/RE7MHos6qlToFcGWXVp+ykHOy77OUMrfbgJ9it2C5bow7OIQwYYaHjk9XlBQ2A==}
 
-  '@fontsource/inter@5.0.18':
-    resolution: {integrity: sha512-YCsoYPTcs713sI7tLtxaPrIhXAXvEetGg5Ry02ivA8qUOb3fQHojbK/X9HLD5OOKvFUNR2Ynkwb1kR1hVKQHpw==}
+  '@fontsource/inter@5.0.20':
+    resolution: {integrity: sha512-rtw2F7xfM7rJmmnncXnR4ADr5wXsp4GyN1O1jmQJ1PMjAK+bm620/ZkQkeOYOkGoa09OksGinOeMA+Mkt6K9PQ==}
 
   '@fontsource/iosevka@5.0.11':
     resolution: {integrity: sha512-o+4WZJxzCPe+WIOiXiA2KAU3xrBhLRZCHj0ZMRztZ5dpacxPXpSublSCUIrfw2nh41XSg1QNxMU/Q/66RTtVRQ==}
@@ -1426,7 +1426,7 @@ snapshots:
 
   '@braintree/sanitize-url@6.0.4': {}
 
-  '@fontsource/inter@5.0.18': {}
+  '@fontsource/inter@5.0.20': {}
 
   '@fontsource/iosevka@5.0.11': {}
 
