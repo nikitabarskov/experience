@@ -11,7 +11,7 @@
     "@fontsource/iosevka": "^5.0.7",
     "@vercel/analytics": "^1.0.2",
     "install": "^0.13.0",
-    "next": "^14.2.5",
+    "next": "^14.2.15",
     "nextra": "^2.5.2",
     "nextra-theme-docs": "^2.5.2",
     "react": "^18.2.0",
