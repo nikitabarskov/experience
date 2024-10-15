@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "@fontsource/inter": "^5.0.8",
-    "@fontsource/iosevka": "^5.0.7",
+    "@fontsource/iosevka": "^5.1.0",
     "@vercel/analytics": "^1.0.2",
     "install": "^0.13.0",
     "next": "^14.2.15",
