@@ -12,8 +12,8 @@ importers:
         specifier: ^5.0.8
         version: 5.0.18
       '@fontsource/iosevka':
-        specifier: ^5.0.7
-        version: 5.0.11
+        specifier: ^5.1.0
+        version: 5.1.0
       '@vercel/analytics':
         specifier: ^1.0.2
         version: 1.2.2(next@15.0.2(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(react@18.3.1)
@@ -51,8 +51,8 @@ packages:
   '@fontsource/inter@5.0.18':
     resolution: {integrity: sha512-YCsoYPTcs713sI7tLtxaPrIhXAXvEetGg5Ry02ivA8qUOb3fQHojbK/X9HLD5OOKvFUNR2Ynkwb1kR1hVKQHpw==}
 
-  '@fontsource/iosevka@5.0.11':
-    resolution: {integrity: sha512-o+4WZJxzCPe+WIOiXiA2KAU3xrBhLRZCHj0ZMRztZ5dpacxPXpSublSCUIrfw2nh41XSg1QNxMU/Q/66RTtVRQ==}
+  '@fontsource/iosevka@5.1.0':
+    resolution: {integrity: sha512-wfo4Tzbb3Lz3Zf+UMF5c/bEQL5enPJ7LT83q/UQxbgXtg+BtleIETkziIwP8lZsw8MwhSou8HVCmSZnY0sfiCw==}
 
   '@headlessui/react@1.7.19':
     resolution: {integrity: sha512-Ll+8q3OlMJfJbAKM/+/Y2q6PPYbryqNTXDbryx7SXLIDamkF6iQFbriYHga0dY44PvDhvvBWCx1Xj4U5+G4hOw==}
@@ -1571,7 +1571,7 @@ snapshots:
 
   '@fontsource/inter@5.0.18': {}
 
-  '@fontsource/iosevka@5.0.11': {}
+  '@fontsource/iosevka@5.1.0': {}
 
   '@headlessui/react@1.7.19(react-dom@18.3.1(react@18.3.1))(react@18.3.1)':
     dependencies:
