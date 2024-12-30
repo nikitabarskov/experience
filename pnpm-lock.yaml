@@ -9,8 +9,8 @@ importers:
   .:
     dependencies:
       '@fontsource/inter':
-        specifier: ^5.0.8
-        version: 5.0.18
+        specifier: ^5.1.1
+        version: 5.1.1
       '@fontsource/iosevka':
         specifier: ^5.0.7
         version: 5.0.11
@@ -48,8 +48,8 @@ packages:
   '@emnapi/runtime@1.3.1':
     resolution: {integrity: sha512-kEBmG8KyqtxJZv+ygbEim+KCGtIq1fC22Ms3S4ziXmYKm8uyoLX0MHONVKwp+9opg390VaKRNt4a7A9NwmpNhw==}
 
-  '@fontsource/inter@5.0.18':
-    resolution: {integrity: sha512-YCsoYPTcs713sI7tLtxaPrIhXAXvEetGg5Ry02ivA8qUOb3fQHojbK/X9HLD5OOKvFUNR2Ynkwb1kR1hVKQHpw==}
+  '@fontsource/inter@5.1.1':
+    resolution: {integrity: sha512-weN3E+rq0Xb3Z93VHJ+Rc7WOQX9ETJPTAJ+gDcaMHtjft67L58sfS65rAjC5tZUXQ2FdZ/V1/sSzCwZ6v05kJw==}
 
   '@fontsource/iosevka@5.0.11':
     resolution: {integrity: sha512-o+4WZJxzCPe+WIOiXiA2KAU3xrBhLRZCHj0ZMRztZ5dpacxPXpSublSCUIrfw2nh41XSg1QNxMU/Q/66RTtVRQ==}
@@ -1569,7 +1569,7 @@ snapshots:
       tslib: 2.6.2
     optional: true
 
-  '@fontsource/inter@5.0.18': {}
+  '@fontsource/inter@5.1.1': {}
 
   '@fontsource/iosevka@5.0.11': {}
 
